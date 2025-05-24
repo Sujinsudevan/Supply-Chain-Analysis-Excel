@@ -21,7 +21,7 @@ This project presents a comprehensive analysis of an eCommerce company's supply 
 
 ---
 
-## 🎯 Business Questions Answered
+## Business Questions Answered
 
 - What is the total revenue, profit, and number of orders?
 - Who are the top-performing customers and cities?
@@ -32,19 +32,19 @@ This project presents a comprehensive analysis of an eCommerce company's supply 
 
 ---
 
-## 📌 Key Insights
+## Key Insights
 
-- 🏙️ **Top City:** Santo Domingo – **152.2K** sales  
-- 🌍 **Top Country:** Estados Unidos – **1709K** sales  
-- 🧢 **Top Product Category:** Fishing – **2422K** sales  
-- 📦 **Most Used Shipping Mode:** Standard Class – **41,802 orders**  
-- ⏱️ **Average Delivery Time:** 3.5 days  
-- 🔁 **Cancellation Rate:** 4.30%  
-- 👤 **Top Customer Order ID:** 9371 – **4.3K** in sales
+- **Top City:** Santo Domingo – **152.2K** sales  
+- **Top Country:** Estados Unidos – **1709K** sales  
+- **Top Product Category:** Fishing – **2422K** sales  
+- **Most Used Shipping Mode:** Standard Class – **41,802 orders**  
+- **Average Delivery Time:** 3.5 days  
+- **Cancellation Rate:** 4.30%  
+- **Top Customer Order ID:** 9371 – **4.3K** in sales
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - **Excel**  
   - Pivot Tables  
@@ -55,7 +55,7 @@ This project presents a comprehensive analysis of an eCommerce company's supply 
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 This supply chain analysis dashboard helps businesses optimize operations by providing clear, actionable insights. It allows stakeholders to monitor performance across geographies, product categories, and customers, ultimately driving better decision-making and operational efficiency.
 
