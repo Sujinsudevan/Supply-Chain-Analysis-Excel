@@ -5,19 +5,19 @@
 
 # Supply-Chain-Analytics
 
-## 📊 Overview
+## Overview
 
-This project presents a comprehensive analysis of an eCommerce company's supply chain using **Excel**. It leverages the `DataCoSupplyChainDataset` to uncover sales performance, customer behavior, product demand, and shipping efficiency. An interactive Excel dashboard was built to provide real-time insights and assist in strategic decision-making.
+This project presents a comprehensive analysis of an eCommerce company's supply chain using **Excel**. It leverages the **DataCoSupplyChainDataset** to uncover sales performance, customer behavior, product demand, and shipping efficiency. An interactive Excel dashboard was built to provide real-time insights and assist in strategic decision-making.
 
 ---
 
-## 📁 Dataset Summary
+## Dataset Summary
 
-- **Dataset Name:** `DataCoSupplyChainDataset.csv`
+- **Dataset Name:** DataCoSupplyChainDataset.csv
 - **Total Records:** 70,000
 - **Time Period:** 2015 to 2018
 - **Key Columns:**  
-  `Order Item Id`, `order date (DateOrders)`, `Order City`, `Order Country`, `Product Category`, `Customer Segment`, `Shipping Mode`, `Order Item Total`, `Profit Ratio`, `Days for shipping (real)`, and more.
+  "Order Item Id", "order date (DateOrders)", "Order City", "Order Country", "Product Category", "Customer Segment", "Shipping Mode", "Order Item Total", "Profit Ratio", "Days for shipping (real)", and more.
 
 ---
 
