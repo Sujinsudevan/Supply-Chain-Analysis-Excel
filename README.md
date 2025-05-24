@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/e0c0bc27-5e4f-49cb-a80d-1917bbf9a12b)
+
 # Supply-Chain-Analytics
 
 ## 📊 Overview
